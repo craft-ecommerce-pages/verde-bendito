@@ -24,25 +24,22 @@ body {
 }
 
 .hero {
-  min-height: 430px;
-  padding-bottom: 72px;
+  min-height: 0;
+  aspect-ratio: 2 / 1;
+  padding: 0;
   overflow: hidden;
-  background:
-    linear-gradient(105deg, rgba(18, 65, 48, .96) 0%, rgba(18, 65, 48, .86) 45%, rgba(18, 65, 48, .26) 100%),
-    url("media/hero.webp") center 52% / cover;
+  background: url("media/hero.jpg") center / cover no-repeat;
   border-radius: 0 0 42px 42px;
   box-shadow: 0 22px 55px rgba(53, 55, 36, .18);
 }
 
 .hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  opacity: .22;
-  background-image: radial-gradient(rgba(255,255,255,.42) .7px, transparent .7px);
-  background-size: 14px 14px;
-  pointer-events: none;
+  display: none;
 }
+
+.hero .hero-top,
+.hero h1,
+.hero .notice { display: none !important; }
 
 .brand-logo { width: 132px; height: 104px; object-fit: contain; filter: drop-shadow(0 8px 18px rgba(0,0,0,.2)); }
 .brand-sub { color: #f8e7c6 !important; text-transform: uppercase; letter-spacing: .14em; font-size: 11px !important; font-weight: 700; }
@@ -120,8 +117,6 @@ footer { color: #677267; }
 footer a { color: #176b4d; font-weight: 700; }
 
 @media (max-width: 640px) {
-  .hero { min-height: 360px; padding-bottom: 54px; border-radius: 0 0 30px 30px; background-position: 58% center; }
-  .hero h1 { font-size: clamp(2.8rem, 15vw, 4.4rem); max-width: 92%; }
-  .brand-logo { width: 106px; height: 84px; }
+  .hero { min-height: 0; aspect-ratio: 2 / 1; padding: 0; border-radius: 0 0 30px 30px; background-position: center; }
   .card { border-radius: 19px; }
 }
