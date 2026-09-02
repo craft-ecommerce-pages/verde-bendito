@@ -159,7 +159,8 @@
       const footer = document.getElementById("footerText");
       if (!footer) return;
       const applyCraftCredit = () => {
-        footer.innerHTML = `© ${new Date().getFullYear()} A Comer Verde Bendito · Powered by <a href="https://craftmarketing.agency" target="_blank" rel="noopener">Craft Systems</a>`;
+        const credit = `© ${new Date().getFullYear()} A Comer Verde Bendito · Powered by <a href="https://craftmarketing.agency" target="_blank" rel="noopener">Craft Systems</a>`;
+        if (footer.innerHTML !== credit) footer.innerHTML = credit;
       };
       const observer = new MutationObserver(applyCraftCredit);
       observer.observe(footer, { childList: true, subtree: true, characterData: true });
