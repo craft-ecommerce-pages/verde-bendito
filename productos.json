@@ -3,6 +3,7 @@
     "id": "1aec04b9-abee-4750-a80a-70c0127bf575",
     "slug": "a-comer-verde-bendito",
     "nombre": "A Comer Verde Bendito",
+    "tipo": "promocion",
     "precio": "5.00",
     "precio_promo": "",
     "categorias": [
@@ -174,7 +175,7 @@
     "precio": "5.50",
     "precio_promo": "",
     "categorias": [
-      "ceviches"
+      "encebollados_ceviches"
     ],
     "descripcion": "Camarones frescos y carnosos bañados en un jugo cítrico vibrante con tomate, cebolla morada y cilantro. Refrescante, jugoso y con ese toque costeño que pide chifles hasta la última cucharada.",
     "stock": null,
@@ -191,7 +192,7 @@
     "precio": "5.50",
     "precio_promo": "",
     "categorias": [
-      "ceviches"
+      "encebollados_ceviches"
     ],
     "descripcion": "Tiernos dados de pescado curados en limón y servidos en un jugo fresco de tomate, cebolla morada y cilantro. Ligero, ácido en su punto y rebosante de sabor marino.",
     "stock": null,
@@ -208,7 +209,7 @@
     "precio": "6.00",
     "precio_promo": "",
     "categorias": [
-      "ceviches"
+      "encebollados_ceviches"
     ],
     "descripcion": "La combinación que no obliga a elegir: pescado suave y camarones jugosos en nuestro refrescante jugo cítrico, con cebolla morada, tomate y cilantro recién picado.",
     "stock": null,
@@ -225,7 +226,7 @@
     "precio": "1.50",
     "precio_promo": "",
     "categorias": [
-      "empanadas"
+      "empanadas_tortillas"
     ],
     "descripcion": "Masa de plátano verde dorada hasta quedar crujiente por fuera y tierna por dentro. Elige un relleno abundante de carne sazonada, pollo jugoso, queso fundido o camarón costeño.",
     "stock": null,
@@ -251,6 +252,37 @@
           {
             "label": "Camarón ($1.75)",
             "price": 1.75
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c74dfe76-b0cf-43ec-ab03-8df32701178f",
+    "slug": "encebollados",
+    "nombre": "Encebollados",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "encebollados_ceviches"
+    ],
+    "descripcion": "Disponibles únicamente los fines de semana. Nuestro encebollado llega humeante con un caldo profundo y reconfortante, yuca suave, atún jugoso, cebolla morada fresca, cilantro y el golpe de limón que despierta el alma. Elige el tradicional o el mixto con camarón para empezar el día con auténtico sabor costeño.",
+    "stock": null,
+    "imagenes": [
+      "/producto/encebollados/images/encebollados-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Encebollado tradicional ($2.50)",
+            "price": 2.5
+          },
+          {
+            "label": "Encebollado mixto con camarón ($3.00)",
+            "price": 3
           }
         ]
       }
@@ -306,38 +338,6 @@
       "/producto/encocado-de-pollo-ahumado/images/encocado-de-pollo-ahumado-1.webp"
     ],
     "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "c74dfe76-b0cf-43ec-ab03-8df32701178f",
-    "slug": "fines-de-semana-de-encebollado",
-    "nombre": "Fines de semana de encebollado",
-    "tipo": "promocion",
-    "precio": "2.50",
-    "precio_promo": "",
-    "categorias": [
-      "especialidades"
-    ],
-    "descripcion": "El ritual del fin de semana: caldo caliente y profundo, yuca suave, atún jugoso, cebolla morada fresca y el golpe de limón que despierta el alma. Pídelo tradicional o mixto con camarón.",
-    "stock": null,
-    "imagenes": [
-      "/producto/fines-de-semana-de-encebollado/images/fines-de-semana-de-encebollado-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Preparación",
-        "options": [
-          {
-            "label": "Encebollado tradicional ($2.50)",
-            "price": 2.5
-          },
-          {
-            "label": "Encebollado mixto con camarón ($3.00)",
-            "price": 3
-          }
-        ]
-      }
-    ],
     "sku": ""
   },
   {
@@ -432,7 +432,7 @@
     "precio": "1.00",
     "precio_promo": "",
     "categorias": [
-      "tortillas"
+      "empanadas_tortillas"
     ],
     "descripcion": "Tortillitas de verde doradas a la plancha, con bordes ligeramente crujientes y centro suave. Elige queso fundido o maduro dulzón para ese contraste irresistible.",
     "stock": null,

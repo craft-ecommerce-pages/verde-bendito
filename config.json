@@ -8,6 +8,8 @@
     "bolones": "🟢 Bolones",
     "ceviches": "🍋 Ceviches",
     "empanadas": "🥟 Empanadas",
+    "empanadas_tortillas": "🥟 Empanadas y Tortillas",
+    "encebollados_ceviches": "🍲 Encebollados y Ceviches",
     "encocados": "🥥 Encocados",
     "especialidades": "🔥 Especialidades",
     "tortillas": "🫓 Tortillas"
@@ -15,7 +17,9 @@
   "category_order": [
     "empanadas",
     "bolones",
+    "empanadas_tortillas",
     "especialidades",
+    "encebollados_ceviches",
     "tortillas",
     "ceviches",
     "encocados",
