@@ -53,25 +53,35 @@ body {
 .sticky-bar { background: rgba(247, 240, 223, .88); border-color: rgba(36,56,43,.12); backdrop-filter: blur(18px); }
 .search-box { background: #fffaf0; border: 1px solid rgba(36,56,43,.13); box-shadow: 0 9px 28px rgba(66,66,42,.08); }
 .cat-chip {
-  width: 78px;
-  padding: 5px 4px 7px;
-  background: #fffaf0;
+  width: 70px;
+  padding: 0;
+  background: transparent;
   color: #435846;
-  border: 1px solid rgba(36,56,43,.12);
-  border-radius: 20px;
-  box-shadow: 0 6px 15px rgba(66,66,42,.06);
-  overflow: hidden;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: visible;
 }
-.cat-chip .ic { border-radius: 16px; }
+.cat-chip .ic {
+  background: #fffaf0;
+  border: 1px solid rgba(36,56,43,.12);
+  border-radius: 16px;
+  box-shadow: 0 6px 15px rgba(66,66,42,.06);
+}
 .cat-chip.active {
-  color: #fff;
-  background: #176b4d;
-  border-color: #176b4d;
-  border-radius: 20px;
+  color: #435846;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+.cat-chip.active .ic {
+  border-radius: 16px;
+  background: linear-gradient(135deg, #176b4d, #f26a3d);
+  border-color: transparent;
   box-shadow: 0 8px 20px rgba(23,107,77,.25);
 }
-.cat-chip.active .ic { border-radius: 16px; }
-.cat-chip.active .lb { color: #fff; }
+.cat-chip.active .lb { color: #176b4d; }
 
 .cat-header { color: #264532; font-weight: 800; letter-spacing: -.025em; }
 .card { background: #fffaf0; border: 1px solid rgba(36,56,43,.10); box-shadow: 0 13px 35px rgba(72,67,43,.10); overflow: hidden; }
