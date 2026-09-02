@@ -27,7 +27,9 @@
     ],
     "descripcion": "Plátano verde especiado y húmedo, envuelto en hoja y relleno de camarones sabrosos. Su aroma al desenvolverlo anuncia un bocado tierno, cálido y completamente costeño.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bollo-de-camaron/images/bollo-de-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -42,7 +44,9 @@
     ],
     "descripcion": "Masa suave de plátano verde, bien sazonada y cocida lentamente en hoja para concentrar sus aromas, con un corazón jugoso de pescado que se deshace al abrirlo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bollo-de-pescado/images/bollo-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -319,7 +323,9 @@
     ],
     "descripcion": "Camarones tiernos y rebosantes de sabor envueltos en una salsa de coco aterciopelada, perfumada con hierbas y especias de la costa. Una cucharada y ya estás junto al mar.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-de-camaron/images/encocado-de-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
