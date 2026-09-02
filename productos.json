@@ -17,6 +17,51 @@
     "sku": ""
   },
   {
+    "id": "86481dfc-c4ce-437a-a8ed-7d27e0fe75f2",
+    "slug": "bollo-de-camaron",
+    "nombre": "Bollo de camarón",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bollos"
+    ],
+    "descripcion": "Plátano verde especiado y húmedo, envuelto en hoja y relleno de camarones sabrosos. Su aroma al desenvolverlo anuncia un bocado tierno, cálido y completamente costeño.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "420d3fa4-15f1-41b5-94e3-1cfc75682a37",
+    "slug": "bollo-de-pescado",
+    "nombre": "Bollo de pescado",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bollos"
+    ],
+    "descripcion": "Masa suave de plátano verde, bien sazonada y cocida lentamente en hoja para concentrar sus aromas, con un corazón jugoso de pescado que se deshace al abrirlo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e088c66f-a5e0-45eb-90ac-01bf92ae42cc",
+    "slug": "bollo-mixto",
+    "nombre": "Bollo mixto",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "bollos"
+    ],
+    "descripcion": "El más generoso de la casa: masa tierna de verde cocida en hoja con pescado y camarón en un relleno jugoso, aromático y lleno de sabor a costa ecuatoriana.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "edf25f76-c8e4-4ab9-bbb5-7a2365b54b08",
     "slug": "bollos-de-verde",
     "nombre": "Bollos de verde",
@@ -258,6 +303,51 @@
     "sku": ""
   },
   {
+    "id": "501ded16-ab59-487c-a35e-c77374b059bf",
+    "slug": "encocado-de-camaron",
+    "nombre": "Encocado de camarón",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Camarones tiernos y rebosantes de sabor envueltos en una salsa de coco aterciopelada, perfumada con hierbas y especias de la costa. Una cucharada y ya estás junto al mar.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f744345f-5892-457a-9707-d701a67929e8",
+    "slug": "encocado-de-pescado",
+    "nombre": "Encocado de pescado",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Pescado tierno cocinado lentamente en una salsa de coco sedosa y aromática, con especias costeñas que se abrazan a cada fibra. Cremoso, fragante y profundamente reconfortante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "2d7f333b-402c-42d9-8fa9-8a192032ea11",
+    "slug": "encocado-de-pollo-ahumado",
+    "nombre": "Encocado de pollo ahumado",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Pollo jugoso con un delicado toque ahumado, sumergido en salsa de coco cremosa y especiada. El contraste entre humo y dulzor natural deja un sabor largo e irresistible.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "21d03d4c-0820-4062-aa98-cb1c53d74bb9",
     "slug": "encocados",
     "nombre": "Encocados",
@@ -286,6 +376,36 @@
           {
             "label": "Camarón ($5.50)",
             "price": 5.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c74dfe76-b0cf-43ec-ab03-8df32701178f",
+    "slug": "fines-de-semana-de-encebollado",
+    "nombre": "Fines de semana de encebollado",
+    "tipo": "promocion",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "especialidades"
+    ],
+    "descripcion": "El ritual del fin de semana: caldo caliente y profundo, yuca suave, atún jugoso, cebolla morada fresca y el golpe de limón que despierta el alma. Pídelo tradicional o mixto con camarón.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Encebollado tradicional ($2.50)",
+            "price": 2.5
+          },
+          {
+            "label": "Encebollado mixto con camarón ($3.00)",
+            "price": 3
           }
         ]
       }
