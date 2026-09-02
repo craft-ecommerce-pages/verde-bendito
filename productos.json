@@ -61,7 +61,9 @@
     ],
     "descripcion": "El más generoso de la casa: masa tierna de verde cocida en hoja con pescado y camarón en un relleno jugoso, aromático y lleno de sabor a costa ecuatoriana.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bollo-mixto/images/bollo-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -410,7 +412,9 @@
     ],
     "descripcion": "El ritual del fin de semana: caldo caliente y profundo, yuca suave, atún jugoso, cebolla morada fresca y el golpe de limón que despierta el alma. Pídelo tradicional o mixto con camarón.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/fines-de-semana-de-encebollado/images/fines-de-semana-de-encebollado-1.webp"
+    ],
     "variantes": [
       {
         "name": "Preparación",
