@@ -122,6 +122,51 @@
     "sku": ""
   },
   {
+    "id": "da1bb1ab-8c3c-4f00-a811-8397e4ea3ade",
+    "slug": "ceviche-de-camaron",
+    "nombre": "Ceviche de camarón",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Camarones frescos y carnosos bañados en un jugo cítrico vibrante con tomate, cebolla morada y cilantro. Refrescante, jugoso y con ese toque costeño que pide chifles hasta la última cucharada.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1dd71ecc-4b93-4657-8abb-168d8825377a",
+    "slug": "ceviche-de-pescado",
+    "nombre": "Ceviche de pescado",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Tiernos dados de pescado curados en limón y servidos en un jugo fresco de tomate, cebolla morada y cilantro. Ligero, ácido en su punto y rebosante de sabor marino.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "deb68e52-e7cf-4f94-b6d6-6026db11d559",
+    "slug": "ceviche-mixto",
+    "nombre": "Ceviche mixto",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "La combinación que no obliga a elegir: pescado suave y camarones jugosos en nuestro refrescante jugo cítrico, con cebolla morada, tomate y cilantro recién picado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "25631972-6f59-452a-81d4-757fb4e24675",
     "slug": "ceviches",
     "nombre": "Ceviches",
