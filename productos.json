@@ -68,41 +68,6 @@
     "sku": ""
   },
   {
-    "id": "edf25f76-c8e4-4ab9-bbb5-7a2365b54b08",
-    "slug": "bollos-de-verde",
-    "nombre": "Bollos de verde",
-    "precio": "3.00",
-    "precio_promo": "",
-    "categorias": [
-      "bollos"
-    ],
-    "descripcion": "Masa suave de plátano verde sazonada y cocida lentamente en hoja, que atrapa todos sus aromas. Ábrela y descubre un relleno jugoso de pescado, camarón o ambos.",
-    "stock": null,
-    "imagenes": [
-      "/producto/bollos-de-verde/images/bollos-de-verde-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Relleno",
-        "options": [
-          {
-            "label": "Pescado ($3.00)",
-            "price": 3
-          },
-          {
-            "label": "Camarón ($3.00)",
-            "price": 3
-          },
-          {
-            "label": "Mixto ($3.50)",
-            "price": 3.5
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
     "id": "aad6c5ca-5748-4d06-9b2b-09753ab97764",
     "slug": "bolon-crocante",
     "nombre": "Bolón crocante",
@@ -224,41 +189,6 @@
     "sku": ""
   },
   {
-    "id": "25631972-6f59-452a-81d4-757fb4e24675",
-    "slug": "ceviches",
-    "nombre": "Ceviches",
-    "precio": "5.50",
-    "precio_promo": "",
-    "categorias": [
-      "ceviches"
-    ],
-    "descripcion": "Mariscos frescos bañados en un jugo cítrico vibrante con tomate, cebolla y cilantro. Fresco, jugoso y con el punto exacto de acidez para abrir el apetito.",
-    "stock": null,
-    "imagenes": [
-      "/producto/ceviches/images/ceviches-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Tipo",
-        "options": [
-          {
-            "label": "Camarón ($5.50)",
-            "price": 5.5
-          },
-          {
-            "label": "Pescado ($5.50)",
-            "price": 5.5
-          },
-          {
-            "label": "Mixto de pescado y camarón ($6.00)",
-            "price": 6
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
     "id": "1599e4c2-b527-4e11-b153-26e681973cbe",
     "slug": "el-monstruoso",
     "nombre": "El Monstruoso",
@@ -363,41 +293,6 @@
       "/producto/encocado-de-pollo-ahumado/images/encocado-de-pollo-ahumado-1.webp"
     ],
     "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "21d03d4c-0820-4062-aa98-cb1c53d74bb9",
-    "slug": "encocados",
-    "nombre": "Encocados",
-    "precio": "5.50",
-    "precio_promo": "",
-    "categorias": [
-      "encocados"
-    ],
-    "descripcion": "Proteína tierna envuelta en una salsa de coco sedosa, aromática y profundamente costeña. Cada cucharada mezcla dulzor natural, especias y un final cremoso inolvidable.",
-    "stock": null,
-    "imagenes": [
-      "/producto/encocados/images/encocados-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Tipo",
-        "options": [
-          {
-            "label": "Pescado ($5.50)",
-            "price": 5.5
-          },
-          {
-            "label": "Pollo ahumado ($5.50)",
-            "price": 5.5
-          },
-          {
-            "label": "Camarón ($5.50)",
-            "price": 5.5
-          }
-        ]
-      }
-    ],
     "sku": ""
   },
   {
