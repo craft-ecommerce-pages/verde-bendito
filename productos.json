@@ -17,6 +17,36 @@
     "sku": ""
   },
   {
+    "id": "e39c8d14-b01b-4e27-ac2a-8c357495b917",
+    "slug": "batidos-naturales",
+    "nombre": "Batidos naturales",
+    "precio": "2.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Seis sabores, una misma frescura: batidos cremosos preparados con fruta para disfrutar mango tropical, coco sedoso, piña refrescante, mora intensa, frutilla dulce o papaya suave. Fríos, naturales y perfectos para acompañar cualquier antojo de verde.",
+    "stock": null,
+    "imagenes": [
+      "/producto/batidos-naturales/images/batidos-naturales-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Mango",
+          "Coco",
+          "Piña",
+          "Mora",
+          "Frutilla",
+          "Papaya"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "86481dfc-c4ce-437a-a8ed-7d27e0fe75f2",
     "slug": "bollo-de-camaron",
     "nombre": "Bollo de camarón",
@@ -69,17 +99,17 @@
   },
   {
     "id": "aad6c5ca-5748-4d06-9b2b-09753ab97764",
-    "slug": "bolon-crocante",
-    "nombre": "Bolón crocante",
+    "slug": "bolon-monstruoso",
+    "nombre": "Bolón Monstruoso",
     "precio": "5.00",
     "precio_promo": "",
     "categorias": [
       "bolones"
     ],
-    "descripcion": "Una esfera generosa de verde frito, con costra dorada y corazón tierno. Se sirve con huevo, ensalada fresca y salsas de la casa para un desayuno que cruje y conquista.",
+    "descripcion": "Una bestia de sabor costeño: enorme bolón de plátano verde con trozos de chicharrón, coronado con nuestra salsa cremosa de hierbas y servido sobre un fondo jugoso que empapa cada bocado. Llega acompañado de huevo frito con yema suave, ensalada fresca de repollo y zanahoria, ají seco y salsa verde. Contundente, crujiente por partes y gloriosamente tierno por dentro.",
     "stock": null,
     "imagenes": [
-      "/producto/bolon-crocante/images/bolon-crocante-1.webp"
+      "/producto/bolon-monstruoso/images/bolon-monstruoso-1.webp"
     ],
     "variantes": [
       {
@@ -340,6 +370,40 @@
     "stock": null,
     "imagenes": [
       "/producto/tapao-arrecho/images/tapao-arrecho-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "104a4ce8-58df-4312-8ebc-01fb45683d65",
+    "slug": "taza-de-cafe",
+    "nombre": "Taza de café",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Café negro, caliente y aromático, con cuerpo reconfortante y ese perfume tostado que despierta los sentidos. El compañero infaltable para un bolón recién servido.",
+    "stock": null,
+    "imagenes": [
+      "/producto/taza-de-cafe/images/taza-de-cafe-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9ab412ae-a70b-443b-8661-666e5be50f85",
+    "slug": "taza-de-te",
+    "nombre": "Taza de té",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Una taza humeante y reconfortante, de aroma delicado y sabor limpio. El descanso cálido perfecto para acompañar el desayuno o cerrar el almuerzo con ligereza.",
+    "stock": null,
+    "imagenes": [
+      "/producto/taza-de-te/images/taza-de-te-1.webp"
     ],
     "variantes": [],
     "sku": ""
