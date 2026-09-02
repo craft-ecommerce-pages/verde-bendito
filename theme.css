@@ -51,7 +51,17 @@ body {
 .hero h1 .hl { color: #ff9b67; background: none; -webkit-text-fill-color: currentColor; }
 
 .sticky-bar { background: rgba(247, 240, 223, .88); border-color: rgba(36,56,43,.12); backdrop-filter: blur(18px); }
-.search-box { background: #fffaf0; border: 1px solid rgba(36,56,43,.13); box-shadow: 0 9px 28px rgba(66,66,42,.08); }
+.search-box {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+.search-box input {
+  background: #fffaf0;
+  border: 1px solid rgba(36,56,43,.13);
+  box-shadow: 0 9px 28px rgba(66,66,42,.08);
+}
 .cat-chip {
   width: 70px;
   padding: 0;
