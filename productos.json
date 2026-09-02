@@ -1,113 +1,49 @@
 [
   {
-    "id": "605e68ac-1365-4314-a4b9-508562525fc4",
-    "slug": "bandeja-de-pollo",
-    "nombre": "Bandeja de pollo",
-    "precio": "14.99",
+    "id": "1aec04b9-abee-4750-a80a-70c0127bf575",
+    "slug": "a-comer-verde-bendito",
+    "nombre": "A Comer Verde Bendito",
+    "precio": "5.00",
     "precio_promo": "",
     "categorias": [
-      "platos_fuertes"
+      "especialidades"
     ],
-    "descripcion": "Presas de pollo a la parrilla doradas y jugosas, con papas fritas, ensalada fresca y nuestras salsas. Porción generosa.",
+    "descripcion": "Mini bolones doraditos de queso y chicharrón, servidos con ensalada fresca, mayonesa cremosa de la casa y ají costeño. Pequeños de tamaño, enormes de sabor.",
     "stock": null,
     "imagenes": [
-      "/producto/bandeja-de-pollo/images/bandeja-de-pollo-1.webp"
+      "/producto/a-comer-verde-bendito/images/a-comer-verde-bendito-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "aa4b415e-8480-4216-bc5f-ec02a410777e",
-    "slug": "bandeja-parrilera",
-    "nombre": "Bandeja Parrilera",
-    "precio": "24.99",
+    "id": "edf25f76-c8e4-4ab9-bbb5-7a2365b54b08",
+    "slug": "bollos-de-verde",
+    "nombre": "Bollos de verde",
+    "precio": "3.00",
     "precio_promo": "",
     "categorias": [
-      "platos_fuertes"
+      "bollos"
     ],
-    "descripcion": "Chorizo, carne de res, cerdo y pollo a la parrilla, acompañados de papas fritas, ensalada fresca y salsas de la casa. Para compartir (o no).",
+    "descripcion": "Masa suave de plátano verde sazonada y cocida lentamente en hoja, que atrapa todos sus aromas. Ábrela y descubre un relleno jugoso de pescado, camarón o ambos.",
     "stock": null,
     "imagenes": [
-      "/producto/bandeja-parrilera/images/bandeja-parrilera-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "4adae141-01e7-49ef-9783-5640eff09ef9",
-    "slug": "brocheta-vegana",
-    "nombre": "Brocheta Vegana",
-    "precio": "3.50",
-    "precio_promo": "",
-    "categorias": [
-      "extras"
-    ],
-    "descripcion": "Vegetales frescos marinados y asados a la parrilla. Opción 100% vegana, llena de sabor y sin culpa",
-    "stock": null,
-    "imagenes": [
-      "/producto/brocheta-vegana/images/brocheta-vegana-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "2f2454f7-e9b4-4ae5-81be-e9c276313536",
-    "slug": "choclo-asado",
-    "nombre": "Choclo asado",
-    "precio": "2",
-    "precio_promo": "",
-    "categorias": [
-      "extras"
-    ],
-    "descripcion": "Choclo tierno asado al carbón, dorado y ahumado. El acompañante perfecto para tu parrillada.",
-    "stock": null,
-    "imagenes": [
-      "/producto/choclo-asado/images/choclo-asado-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "ae2de91c-3ec6-469b-a4a3-646a9624e1f2",
-    "slug": "costillas-bbq",
-    "nombre": "Costillas BBQ",
-    "precio": "15",
-    "precio_promo": "",
-    "categorias": [
-      "platos_fuertes"
-    ],
-    "descripcion": "Costillas de cerdo cocidas lento y bañadas en salsa barbecue, tiernas y ahumadas. Se desprenden del hueso.",
-    "stock": null,
-    "imagenes": [
-      "/producto/costillas-bbq/images/costillas-bbq-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "77975d7a-9d83-401d-8a46-f7e3015435e2",
-    "slug": "gaseosa",
-    "nombre": "Gaseosa",
-    "precio": "1.50",
-    "precio_promo": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "descripcion": "Bebida bien fría para acompañar tu pedido. Elige entre Coca-Cola, Fanta o Sprite.",
-    "stock": null,
-    "imagenes": [
-      "/producto/gaseosa/images/gaseosa-1.webp"
+      "/producto/bollos-de-verde/images/bollos-de-verde-1.webp"
     ],
     "variantes": [
       {
-        "name": "Tamaño",
+        "name": "Relleno",
         "options": [
           {
-            "label": "Personal ($1.50)",
-            "price": 1.5
+            "label": "Pescado ($3.00)",
+            "price": 3
           },
           {
-            "label": "Litro ($3.50)",
+            "label": "Camarón ($3.00)",
+            "price": 3
+          },
+          {
+            "label": "Mixto ($3.50)",
             "price": 3.5
           }
         ]
@@ -116,71 +52,264 @@
     "sku": ""
   },
   {
-    "id": "5c9ab1d4-e63c-4687-b20e-d730b112f371",
-    "slug": "hamburguesa-clasica",
-    "nombre": "Hamburguesa Clásica",
-    "precio": "8.99",
+    "id": "aad6c5ca-5748-4d06-9b2b-09753ab97764",
+    "slug": "bolon-crocante",
+    "nombre": "Bolón crocante",
+    "precio": "5.00",
     "precio_promo": "",
     "categorias": [
-      "hamburguesas"
+      "bolones"
     ],
-    "descripcion": "Carne jugosa a la parrilla con queso derretido, tomate fresco, cebolla y pickles en pan suave. El clásico que nunca falla.",
+    "descripcion": "Una esfera generosa de verde frito, con costra dorada y corazón tierno. Se sirve con huevo, ensalada fresca y salsas de la casa para un desayuno que cruje y conquista.",
     "stock": null,
     "imagenes": [
-      "/producto/hamburguesa-clasica/images/hamburguesa-clasica-1.webp"
+      "/producto/bolon-crocante/images/bolon-crocante-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Queso ($5.00)",
+            "price": 5
+          },
+          {
+            "label": "Completo ($6.00)",
+            "price": 6
+          },
+          {
+            "label": "Mixto ($6.00)",
+            "price": 6
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "7321eeb7-2617-4635-8ce0-b3b002d52f3e",
+    "slug": "bolon-tradicional",
+    "nombre": "Bolón tradicional",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bolones"
+    ],
+    "descripcion": "Plátano verde cocinado y majado al momento: suave, reconfortante y cargado de sabor. Pídelo con queso cremoso, chicharrón sabroso o mixto para disfrutar lo mejor de ambos.",
+    "stock": null,
+    "imagenes": [
+      "/producto/bolon-tradicional/images/bolon-tradicional-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Preparación",
+        "options": [
+          {
+            "label": "Queso ($1.50)",
+            "price": 1.5
+          },
+          {
+            "label": "Chicharrón ($1.50)",
+            "price": 1.5
+          },
+          {
+            "label": "Mixto ($3.00)",
+            "price": 3
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "25631972-6f59-452a-81d4-757fb4e24675",
+    "slug": "ceviches",
+    "nombre": "Ceviches",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "ceviches"
+    ],
+    "descripcion": "Mariscos frescos bañados en un jugo cítrico vibrante con tomate, cebolla y cilantro. Fresco, jugoso y con el punto exacto de acidez para abrir el apetito.",
+    "stock": null,
+    "imagenes": [
+      "/producto/ceviches/images/ceviches-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Tipo",
+        "options": [
+          {
+            "label": "Camarón ($5.50)",
+            "price": 5.5
+          },
+          {
+            "label": "Pescado ($5.50)",
+            "price": 5.5
+          },
+          {
+            "label": "Mixto de pescado y camarón ($6.00)",
+            "price": 6
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "1599e4c2-b527-4e11-b153-26e681973cbe",
+    "slug": "el-monstruoso",
+    "nombre": "El Monstruoso",
+    "precio": "25.00",
+    "precio_promo": "",
+    "categorias": [
+      "especialidades"
+    ],
+    "descripcion": "El bolón gigante que hace honor a su nombre: una montaña de verde con un corazón desbordante de queso fundido y chicharrón crujiente. Grande, atrevido y hecho para compartir… si te atreves.",
+    "stock": null,
+    "imagenes": [
+      "/producto/el-monstruoso/images/el-monstruoso-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "46a0240d-a01d-4ce6-b18f-25d569257a6a",
-    "slug": "limonada-de-frutos-rojos",
-    "nombre": "Limonada de frutos rojos",
-    "precio": "2.50",
+    "id": "00632313-942e-484e-ac67-37bf8f99d998",
+    "slug": "empanadas-de-verde",
+    "nombre": "Empanadas de verde",
+    "precio": "1.50",
     "precio_promo": "",
     "categorias": [
-      "bebidas"
+      "empanadas"
     ],
-    "descripcion": "Limonada natural con frutos rojos, refrescante y con ese toque ácido-dulce que engancha.",
+    "descripcion": "Masa de plátano verde dorada hasta quedar crujiente por fuera y tierna por dentro. Elige un relleno abundante de carne sazonada, pollo jugoso, queso fundido o camarón costeño.",
     "stock": null,
     "imagenes": [
-      "/producto/limonada-de-frutos-rojos/images/limonada-de-frutos-rojos-1.webp"
+      "/producto/empanadas-de-verde/images/empanadas-de-verde-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Carne ($1.50)",
+            "price": 1.5
+          },
+          {
+            "label": "Pollo ($1.50)",
+            "price": 1.5
+          },
+          {
+            "label": "Queso ($1.50)",
+            "price": 1.5
+          },
+          {
+            "label": "Camarón ($1.75)",
+            "price": 1.75
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "21d03d4c-0820-4062-aa98-cb1c53d74bb9",
+    "slug": "encocados",
+    "nombre": "Encocados",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "encocados"
+    ],
+    "descripcion": "Proteína tierna envuelta en una salsa de coco sedosa, aromática y profundamente costeña. Cada cucharada mezcla dulzor natural, especias y un final cremoso inolvidable.",
+    "stock": null,
+    "imagenes": [
+      "/producto/encocados/images/encocados-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Tipo",
+        "options": [
+          {
+            "label": "Pescado ($5.50)",
+            "price": 5.5
+          },
+          {
+            "label": "Pollo ahumado ($5.50)",
+            "price": 5.5
+          },
+          {
+            "label": "Camarón ($5.50)",
+            "price": 5.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "724d436f-3207-4d82-837c-92ace6686237",
+    "slug": "tapao-arrecho",
+    "nombre": "Tapao Arrecho",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "especialidades"
+    ],
+    "descripcion": "Guiso costeño intenso y humeante, donde el pescado, el plátano y los vegetales se impregnan de un caldo especiado y sabroso. Una cucharada basta para transportarte al Pacífico.",
+    "stock": null,
+    "imagenes": [
+      "/producto/tapao-arrecho/images/tapao-arrecho-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "64573b91-682c-4653-84c1-67f537136134",
-    "slug": "limonada-natural",
-    "nombre": "Limonada Natural",
-    "precio": "2.50",
+    "id": "9af87b2c-05a3-47c4-bcb3-b380d3166346",
+    "slug": "tigrillo",
+    "nombre": "Tigrillo",
+    "precio": "5.50",
     "precio_promo": "",
     "categorias": [
-      "bebidas"
+      "especialidades"
     ],
-    "descripcion": "Limonada recién preparada, fresca y en su punto de dulzor. El clásico refrescante.",
+    "descripcion": "Verde majado y salteado con queso que se derrite entre cada bocado, coronado con huevo de yema cremosa. Calientito, sustancioso y con ese sabor casero que abraza.",
     "stock": null,
     "imagenes": [
-      "/producto/limonada-natural/images/limonada-natural-1.webp"
+      "/producto/tigrillo/images/tigrillo-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "a8ce9382-e974-40f5-acb4-0aa2fc49b753",
-    "slug": "taco-de-carne",
-    "nombre": "Taco de carne",
-    "precio": "6.50",
+    "id": "219971b0-3675-4a9b-9b81-30eaaa5e32c1",
+    "slug": "tortillas-de-verde",
+    "nombre": "Tortillas de verde",
+    "precio": "1.00",
     "precio_promo": "",
     "categorias": [
-      "platos_fuertes"
+      "tortillas"
     ],
-    "descripcion": "Tortilla rellena de carne asada bien sazonada, con su toque de frescura y salsas. Ideal para comer con las manos.",
+    "descripcion": "Tortillitas de verde doradas a la plancha, con bordes ligeramente crujientes y centro suave. Elige queso fundido o maduro dulzón para ese contraste irresistible.",
     "stock": null,
     "imagenes": [
-      "/producto/taco-de-carne/images/taco-de-carne-1.webp"
+      "/producto/tortillas-de-verde/images/tortillas-de-verde-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Relleno",
+        "options": [
+          {
+            "label": "Queso ($1.00)",
+            "price": 1
+          },
+          {
+            "label": "Maduro ($1.00)",
+            "price": 1
+          }
+        ]
+      }
+    ],
     "sku": ""
   }
 ]
