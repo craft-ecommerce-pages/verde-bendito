@@ -154,5 +154,17 @@
   <div class="toast" id="toast"></div>
 
   <script src="https://craft-catalog-engine.pages.dev/v1/catalog.js" defer></script>
+  <script defer>
+    window.addEventListener("DOMContentLoaded", () => {
+      const footer = document.getElementById("footerText");
+      if (!footer) return;
+      const applyCraftCredit = () => {
+        footer.innerHTML = `© ${new Date().getFullYear()} A Comer Verde Bendito · Powered by <a href="https://craftmarketing.agency" target="_blank" rel="noopener">Craft Systems</a>`;
+      };
+      const observer = new MutationObserver(applyCraftCredit);
+      observer.observe(footer, { childList: true, subtree: true, characterData: true });
+      setTimeout(applyCraftCredit, 250);
+    });
+  </script>
 </body>
 </html>
