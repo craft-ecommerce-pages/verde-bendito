@@ -211,7 +211,9 @@
     ],
     "descripcion": "La combinación que no obliga a elegir: pescado suave y camarones jugosos en nuestro refrescante jugo cítrico, con cebolla morada, tomate y cilantro recién picado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-mixto/images/ceviche-mixto-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -332,7 +334,9 @@
     ],
     "descripcion": "Pescado tierno cocinado lentamente en una salsa de coco sedosa y aromática, con especias costeñas que se abrazan a cada fibra. Cremoso, fragante y profundamente reconfortante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-de-pescado/images/encocado-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -347,7 +351,9 @@
     ],
     "descripcion": "Pollo jugoso con un delicado toque ahumado, sumergido en salsa de coco cremosa y especiada. El contraste entre humo y dulzor natural deja un sabor largo e irresistible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/encocado-de-pollo-ahumado/images/encocado-de-pollo-ahumado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
