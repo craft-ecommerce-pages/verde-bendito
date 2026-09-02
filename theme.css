@@ -30,11 +30,25 @@ body {
   overflow: hidden;
   background: url("media/hero.jpg") center / cover no-repeat;
   border-radius: 0 0 42px 42px;
-  box-shadow: 0 22px 55px rgba(53, 55, 36, .18);
+  border: 1px solid rgba(255, 255, 255, .28);
+  box-shadow:
+    0 7px 14px rgba(36, 56, 43, .12),
+    0 24px 58px rgba(36, 56, 43, .28),
+    0 42px 90px rgba(242, 106, 61, .10);
 }
 
 .hero::before {
-  display: none;
+  content: "";
+  display: block;
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.10), transparent 20%, transparent 72%, rgba(18,65,48,.18));
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,.34),
+    inset 0 -18px 32px rgba(18,65,48,.10);
+  pointer-events: none;
 }
 
 .hero .hero-top,
