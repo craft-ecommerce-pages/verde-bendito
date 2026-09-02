@@ -189,23 +189,6 @@
     "sku": ""
   },
   {
-    "id": "1599e4c2-b527-4e11-b153-26e681973cbe",
-    "slug": "el-monstruoso",
-    "nombre": "El Monstruoso",
-    "precio": "25.00",
-    "precio_promo": "",
-    "categorias": [
-      "especialidades"
-    ],
-    "descripcion": "El bolón gigante que hace honor a su nombre: una montaña de verde con un corazón desbordante de queso fundido y chicharrón crujiente. Grande, atrevido y hecho para compartir… si te atreves.",
-    "stock": null,
-    "imagenes": [
-      "/producto/el-monstruoso/images/el-monstruoso-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
     "id": "00632313-942e-484e-ac67-37bf8f99d998",
     "slug": "empanadas-de-verde",
     "nombre": "Empanadas de verde",
@@ -357,6 +340,23 @@
     "stock": null,
     "imagenes": [
       "/producto/tigrillo/images/tigrillo-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1599e4c2-b527-4e11-b153-26e681973cbe",
+    "slug": "torta-bolon",
+    "nombre": "Torta Bolón",
+    "precio": "25.00",
+    "precio_promo": "",
+    "categorias": [
+      "especialidades"
+    ],
+    "descripcion": "Una corona monumental de plátano verde y chicharrón, armada en capas con jamón, huevo cocido y queso fundido. La terminamos con salsa cremosa y una lluvia generosa de queso rallado: dorada, untuosa y rebosante por dentro, hecha para ponerla al centro de la mesa y convertir cualquier reunión en un verdadero festín costeño.",
+    "stock": null,
+    "imagenes": [
+      "/producto/torta-bolon/images/torta-bolon-1.webp"
     ],
     "variantes": [],
     "sku": ""
