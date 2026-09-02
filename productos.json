@@ -219,23 +219,6 @@
     "sku": ""
   },
   {
-    "id": "cc50749a-db3e-419b-a688-edb8f6f76d01",
-    "slug": "el-monstruoso",
-    "nombre": "El Monstruoso",
-    "precio": "25.00",
-    "precio_promo": "",
-    "categorias": [
-      "especialidades"
-    ],
-    "descripcion": "El bolón gigante que hace honor a su nombre: una montaña de plátano verde con un corazón desbordante de queso fundido y chicharrón crujiente. Grande, atrevido y hecho para compartir… si te atreves.",
-    "stock": null,
-    "imagenes": [
-      "/producto/el-monstruoso/images/el-monstruoso-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
     "id": "00632313-942e-484e-ac67-37bf8f99d998",
     "slug": "empanadas-de-verde",
     "nombre": "Empanadas de verde",
