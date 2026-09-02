@@ -1,0 +1,186 @@
+[
+  {
+    "id": "605e68ac-1365-4314-a4b9-508562525fc4",
+    "slug": "bandeja-de-pollo",
+    "nombre": "Bandeja de pollo",
+    "precio": "14.99",
+    "precio_promo": "",
+    "categorias": [
+      "platos_fuertes"
+    ],
+    "descripcion": "Presas de pollo a la parrilla doradas y jugosas, con papas fritas, ensalada fresca y nuestras salsas. Porción generosa.",
+    "stock": null,
+    "imagenes": [
+      "/producto/bandeja-de-pollo/images/bandeja-de-pollo-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aa4b415e-8480-4216-bc5f-ec02a410777e",
+    "slug": "bandeja-parrilera",
+    "nombre": "Bandeja Parrilera",
+    "precio": "24.99",
+    "precio_promo": "",
+    "categorias": [
+      "platos_fuertes"
+    ],
+    "descripcion": "Chorizo, carne de res, cerdo y pollo a la parrilla, acompañados de papas fritas, ensalada fresca y salsas de la casa. Para compartir (o no).",
+    "stock": null,
+    "imagenes": [
+      "/producto/bandeja-parrilera/images/bandeja-parrilera-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "4adae141-01e7-49ef-9783-5640eff09ef9",
+    "slug": "brocheta-vegana",
+    "nombre": "Brocheta Vegana",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "extras"
+    ],
+    "descripcion": "Vegetales frescos marinados y asados a la parrilla. Opción 100% vegana, llena de sabor y sin culpa",
+    "stock": null,
+    "imagenes": [
+      "/producto/brocheta-vegana/images/brocheta-vegana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "2f2454f7-e9b4-4ae5-81be-e9c276313536",
+    "slug": "choclo-asado",
+    "nombre": "Choclo asado",
+    "precio": "2",
+    "precio_promo": "",
+    "categorias": [
+      "extras"
+    ],
+    "descripcion": "Choclo tierno asado al carbón, dorado y ahumado. El acompañante perfecto para tu parrillada.",
+    "stock": null,
+    "imagenes": [
+      "/producto/choclo-asado/images/choclo-asado-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ae2de91c-3ec6-469b-a4a3-646a9624e1f2",
+    "slug": "costillas-bbq",
+    "nombre": "Costillas BBQ",
+    "precio": "15",
+    "precio_promo": "",
+    "categorias": [
+      "platos_fuertes"
+    ],
+    "descripcion": "Costillas de cerdo cocidas lento y bañadas en salsa barbecue, tiernas y ahumadas. Se desprenden del hueso.",
+    "stock": null,
+    "imagenes": [
+      "/producto/costillas-bbq/images/costillas-bbq-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "77975d7a-9d83-401d-8a46-f7e3015435e2",
+    "slug": "gaseosa",
+    "nombre": "Gaseosa",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Bebida bien fría para acompañar tu pedido. Elige entre Coca-Cola, Fanta o Sprite.",
+    "stock": null,
+    "imagenes": [
+      "/producto/gaseosa/images/gaseosa-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Personal ($1.50)",
+            "price": 1.5
+          },
+          {
+            "label": "Litro ($3.50)",
+            "price": 3.5
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "5c9ab1d4-e63c-4687-b20e-d730b112f371",
+    "slug": "hamburguesa-clasica",
+    "nombre": "Hamburguesa Clásica",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [
+      "hamburguesas"
+    ],
+    "descripcion": "Carne jugosa a la parrilla con queso derretido, tomate fresco, cebolla y pickles en pan suave. El clásico que nunca falla.",
+    "stock": null,
+    "imagenes": [
+      "/producto/hamburguesa-clasica/images/hamburguesa-clasica-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "46a0240d-a01d-4ce6-b18f-25d569257a6a",
+    "slug": "limonada-de-frutos-rojos",
+    "nombre": "Limonada de frutos rojos",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Limonada natural con frutos rojos, refrescante y con ese toque ácido-dulce que engancha.",
+    "stock": null,
+    "imagenes": [
+      "/producto/limonada-de-frutos-rojos/images/limonada-de-frutos-rojos-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "64573b91-682c-4653-84c1-67f537136134",
+    "slug": "limonada-natural",
+    "nombre": "Limonada Natural",
+    "precio": "2.50",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Limonada recién preparada, fresca y en su punto de dulzor. El clásico refrescante.",
+    "stock": null,
+    "imagenes": [
+      "/producto/limonada-natural/images/limonada-natural-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a8ce9382-e974-40f5-acb4-0aa2fc49b753",
+    "slug": "taco-de-carne",
+    "nombre": "Taco de carne",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "platos_fuertes"
+    ],
+    "descripcion": "Tortilla rellena de carne asada bien sazonada, con su toque de frescura y salsas. Ideal para comer con las manos.",
+    "stock": null,
+    "imagenes": [
+      "/producto/taco-de-carne/images/taco-de-carne-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  }
+]
