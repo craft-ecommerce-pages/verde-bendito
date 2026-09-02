@@ -177,7 +177,9 @@
     ],
     "descripcion": "Camarones frescos y carnosos bañados en un jugo cítrico vibrante con tomate, cebolla morada y cilantro. Refrescante, jugoso y con ese toque costeño que pide chifles hasta la última cucharada.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-de-camaron/images/ceviche-de-camaron-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -192,7 +194,9 @@
     ],
     "descripcion": "Tiernos dados de pescado curados en limón y servidos en un jugo fresco de tomate, cebolla morada y cilantro. Ligero, ácido en su punto y rebosante de sabor marino.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/ceviche-de-pescado/images/ceviche-de-pescado-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
