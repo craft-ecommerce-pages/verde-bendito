@@ -21,10 +21,16 @@
     "bebidas"
   ],
   "currency": "$",
-  "hero_title": "El verde se vuelve \u003cspan class=\"hl\"\u003ebendito\u003c/span\u003e 🌿",
+  "hero_title": "El verde se vuelve <span class=\"hl\">bendito</span> 🌿",
   "location": {
-    "map_embed": "",
-    "sedes": [],
+    "map_embed": "https://www.google.com/maps?q=Calle%20Tabiazo%20y%20Av.%20Mariscal%20Sucre%2C%20Diagonal%20a%20la%20Gasolinera%20PetroEcuador%2C%20Sur%20de%20Quito&output=embed",
+    "sedes": [
+      {
+        "nombre": "A Comer Verde Bendito",
+        "direccion": "Calle Tabiazo y Av. Mariscal Sucre, diagonal a la Gasolinera PetroEcuador, Sur de Quito",
+        "telefono": "+593999582012"
+      }
+    ],
     "telefono_principal": "+593999582012"
   },
   "min_days_advance": null,
